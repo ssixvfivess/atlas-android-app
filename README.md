@@ -1,1 +1,7 @@
-<img width="1166" height="753" alt="image" src="https://github.com/user-attachments/assets/0d0dfd43-dd17-49df-a397-ca34d9c936a7" />
+
+
+<img width="1134" height="736" alt="image" src="https://github.com/user-attachments/assets/802b3e0a-4b07-48c4-940f-c7e7ab7e68b5" />
+
+
+Вет Атлас - Дополненный Ветеринарный Атлас
+Данное ПО обеспечит студентов ветеринарных факультетов достоверной информацией для обучения и запоминания анатомии мышц **крупного рогатого скота**.
