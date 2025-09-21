@@ -14,4 +14,5 @@
 ## 🟠 Первичные макеты приложения:
 
 
-<img width="1134" height="736" alt="image" src="https://github.com/user-attachments/assets/802b3e0a-4b07-48c4-940f-c7e7ab7e68b5" />
+<img width="963" height="627" alt="image" src="https://github.com/user-attachments/assets/45587a3e-79be-443f-bcf4-cb3322e29e14" />
+
