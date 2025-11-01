@@ -12,7 +12,7 @@
 - Навигация Navigation Components
 - Compose
 
-## 🟠 Первичные макеты приложения:
+## Первичный макет приложения:
 
 
 <img width="963" height="627" alt="image" src="https://github.com/user-attachments/assets/45587a3e-79be-443f-bcf4-cb3322e29e14" />
