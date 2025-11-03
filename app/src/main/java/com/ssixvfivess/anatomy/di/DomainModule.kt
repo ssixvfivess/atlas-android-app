@@ -1,5 +1,6 @@
 package com.ssixvfivess.anatomy.di
 
+import com.ssixvfivess.anatomy.domain.GetMuscleUseCase
 import com.ssixvfivess.anatomy.domain.GetMuscleUseCaseImpl
 import dagger.Binds
 import dagger.Module
@@ -13,5 +14,5 @@ interface DomainModule {
 
     @Binds
     @Reusable
-    fun bindGetMusclesListUseCase(impl: GetMuscleUseCaseImpl)
+    fun bindGetMusclesListUseCase(impl: GetMuscleUseCaseImpl): GetMuscleUseCase
 }
