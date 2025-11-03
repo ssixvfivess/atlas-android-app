@@ -1,4 +1,4 @@
-package com.ssixvfivess.anatomy.data
+package com.ssixvfivess.anatomy.domain
 
 data class MuscleModel(
     val id: Int,

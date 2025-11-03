@@ -1,6 +1,8 @@
 package com.ssixvfivess.anatomy.data
 
-fun MuscleEntity.toMuscleModel() = MuscleModel(
+import com.ssixvfivess.anatomy.domain.MuscleModel
+
+fun MuscleEntity.toMuscleModel() : MuscleModel = MuscleModel(
     id = id,
     buttonNumber = buttonNumber,
     laName = laName,
