@@ -4,7 +4,7 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 
 @Entity(tableName = "muscles")
-class MuscleEntity(
+data class MuscleEntity(
     @PrimaryKey val id: Int,
     val bodyPartId: Int,
     val buttonNumber: Int,
